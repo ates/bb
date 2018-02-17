@@ -1,0 +1,6 @@
+{application, bb, [
+    {description, "A Binance Bot"},
+    {vsn, semver},
+    {applications, [kernel, stdlib, lager, gun, jsx]},
+    {mod, {bb_app, []}}
+]}.
