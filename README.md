@@ -7,7 +7,7 @@ How to use
 
 Erlang OTP 20 is required
 
-Edit config/dev.config and specify you API Key and API Secret
+Edit config/dev.config and specify your API Key and API Secret
 
 
 ```
